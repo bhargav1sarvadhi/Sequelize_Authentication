@@ -5,7 +5,7 @@ This project implements a user authentication and authorization system using Exp
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `https://github.com/bhargav1sarvadhi/Sequelize_Authentication.git`
 2. Install the dependencies: `npm install`
 
 ## Configuration
